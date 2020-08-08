@@ -54,19 +54,19 @@
     }
     #funny {
         font-size: 40px;
-        width: 45vw;
+        width: 45%;
         padding-bottom: 0;
         height: 75vh;
     }
     #notFunny {
       font-size: 40px;
-      width: 45vw;
+      width: 45%;
       padding: 0%;
       margin-top: 0px;
       height: 75vh;
     }
     #superFunny {
-        width: 96vw;
+        width: 95%;
         height: 15vh;
     }
 }
