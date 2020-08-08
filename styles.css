@@ -67,3 +67,19 @@
         height: 15vh;
     }
 }
+@media only screen and (max-width: 415px) {
+    body {
+        border: none;
+        margin: none;
+        padding: none;
+    }
+    #funny {
+        font-size: 30px;
+    }
+    #notFunny {
+      font-size: 30px;
+    }
+    #superFunny {
+        font-size: 30px;
+    }
+}
