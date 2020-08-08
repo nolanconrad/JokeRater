@@ -67,19 +67,14 @@
         height: 15vh;
     }
 }
+
 @media only screen and (max-width: 415px) {
-    body {
-        border: none;
-        margin: none;
-        padding: none;
-    }
     #funny {
-        font-size: 30px;
+        font-size: 20px;
     }
     #notFunny {
-      font-size: 30px;
+      font-size: 20px;
     }
     #superFunny {
-        font-size: 30px;
+        font-size: 20px;
     }
-}
