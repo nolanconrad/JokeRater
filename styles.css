@@ -1,3 +1,4 @@
+
 #funny {
     background-color: green;
     border: 2px solid grey;
@@ -43,4 +44,29 @@
     background-color: darkgoldenrod;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
+}
+
+@media only screen and (max-width: 415px) {
+    body {
+        border: none;
+        margin: none;
+        padding: none;
+    }
+    #funny {
+        font-size: 40px;
+        width: 47vw;
+        padding-bottom: 0;
+        height: 75vh;
+    }
+    #notFunny {
+      font-size: 40px;
+      width: 47vw;
+      padding: 0%;
+      margin-top: 0px;
+      height: 75vh;
+    }
+    #superFunny {
+        width: 96vw;
+        height: 15vh;
+    }
 }
