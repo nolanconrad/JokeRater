@@ -46,7 +46,7 @@
     transform: translateY(4px);
 }
 
-@media only screen and (max-width: 415px) {
+@media only screen and (max-width: 999px) {
     body {
         border: none;
         margin: none;
@@ -55,14 +55,11 @@
     #funny {
         font-size: 40px;
         width: 45%;
-        padding-bottom: 0;
         height: 75vh;
     }
     #notFunny {
       font-size: 40px;
       width: 45%;
-      padding: 0%;
-      margin-top: 0px;
       height: 75vh;
     }
     #superFunny {
