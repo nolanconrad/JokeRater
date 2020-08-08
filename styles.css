@@ -1,0 +1,46 @@
+#funny {
+    background-color: green;
+    border: 2px solid grey;
+    width: 49vw;
+    height: 75vh;
+    font-size: 50px;
+    box-shadow: 0 9px #999;
+    border-radius: 5px;
+}
+
+#funny:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+#notFunny {
+    background-color: red;
+    display: inline;
+    width: 49vw;
+    height: 75vh;    
+    font-size: 50px;
+    box-shadow: 0 9px #999;
+    border-radius: 5px;
+}
+
+#notFunny:active {
+    background-color: #8B0000;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#superFunny {
+    width: 98.3vw;
+    height: 20vh;
+    margin-top: 15px;
+    background-color: gold;
+    font-size: 50px;
+    box-shadow: 0 9px #999;
+    border-radius: 5px;
+}
+
+#superFunny:active {
+    background-color: darkgoldenrod;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
